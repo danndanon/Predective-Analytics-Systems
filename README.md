@@ -1,2 +1,2 @@
-# Predective_Analytics_Systems
+# Predective Analytics Systems
 Hi there!! Welcome to yet another uni project
